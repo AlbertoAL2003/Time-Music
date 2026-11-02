@@ -19,7 +19,6 @@ Time Music es una aplicación móvil diseñada para quienes aman tener su propia
 
 ## 🚀 Instalación y Uso
 
-*(Aquí puedes detallar cómo compilar el proyecto o dónde descargar la aplicación)*
 
 1. Sí eres nuevo usuario, solo necesitaras meterte al aparto de tags y tendras varias versiones de la aplicacion
 2. Sí ya es usuario la aplicación le mandara una notificacion cuando lleguen nuevas actualizaciones
